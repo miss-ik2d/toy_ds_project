@@ -1,2 +1,2 @@
 # toy_ds_project
-Toy repo for DSCI 100!
+project creation date: 05/02/2024
